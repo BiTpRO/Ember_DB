@@ -2,6 +2,8 @@
 
 All contents of Ember's SQL and database are in this zip file.
 
+Sensitive information such as accounts and passwords have been removed entirely.
+
 One SQL file is inside the zipped file but is far too large to commit here, so the zip file was created.
 
 run
